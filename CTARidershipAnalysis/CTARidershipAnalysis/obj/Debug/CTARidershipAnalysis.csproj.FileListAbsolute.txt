@@ -1,0 +1,10 @@
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.Form1.resources
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.Properties.Resources.resources
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csproj.GenerateResource.Cache
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.exe.config
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.exe
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.pdb
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.exe
+C:\Users\Hamza Shahid\Desktop\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.pdb
