@@ -1,0 +1,9 @@
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.pdb
