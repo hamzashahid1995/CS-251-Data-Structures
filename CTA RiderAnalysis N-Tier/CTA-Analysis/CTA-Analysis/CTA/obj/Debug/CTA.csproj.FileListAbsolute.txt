@@ -1,0 +1,10 @@
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.pdb
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Form1.resources
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Properties.Resources.resources
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csproj.GenerateResource.Cache
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\Hamza Shahid\Desktop\UIC\Sophomore\CS 341\Programs\P08 CTA RiderAnalysis N-Tier\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.pdb
